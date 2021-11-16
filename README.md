@@ -1,11 +1,10 @@
-# PROJECT NAME
+# DINO Ipsum API
 
 #### EPICODUS PRACTICE: Sample one-sentence description
 ---
 #### By
 * _**Ella Tanttu**_
-* _**Name 2**_
-* _**Name 3**_
+* _**Colt Thatcher**_
 
 ## Technologies Used
 
@@ -20,14 +19,14 @@
 
 ## Description
 
-_Detailed description that explains the project and what concepts were being practiced._
+_Use this API to allow your users to generate dinosaur themed Lorem Ipsum. Use it any way you like - for instance, you could create a dinosaur themed game along the lines of hangman. Note: Be sure you set your output format to JSON, not HTML or text._
 
 ## View Live Application on GH-Pages
 _PLACE LINK TO LIVE SITE HERE_
 
 ## Setup & Installation Instructions
 
-1. Download or clone github repository to local machine in desired directory - https://github.com/url-path
+1. Download or clone github repository to local machine in desired directory - https://github.com/dino-api
 2. If downloaded, extract .zip contents to desired directory
 3. Navigate to and open directory with Visual Studio Code
 4. Open terminal and install required packages by typing "npm install"
@@ -47,9 +46,7 @@ _https://opensource.org/licenses/MIT_
 ## Contact Information
 
 _Ella Tanttu ellajtanttu@gmail.com_
-
----
-
+_Colton Thatcher colt.thatcher303@gmail.com_
 
 # Whiteboarding
 

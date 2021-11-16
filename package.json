@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "DINO IPSUM API",
   "version": "1.0.0",
-  "description": "",
+  "description": "Prompt: Use this API to allow your users to generate dinosaur themed Lorem Ipsum. Use it any way you like - for instance, you could create a dinosaur themed game along the lines of hangman. Note: Be sure you set your output format to JSON, not HTML or text.",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode=development",
@@ -10,7 +10,7 @@
     "test": "jest --coverage"
   },
   "keywords": [],
-  "author": "Ella Tanttu",
+  "author": "Ella Tanttu, Colton Thatcher",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.6.4",
