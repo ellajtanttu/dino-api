@@ -51,9 +51,11 @@ _Colton Thatcher colt.thatcher303@gmail.com_
 # Whiteboarding
 
 ## Prompt
-> Block quote paragraph setter
+> Use this API to allow your users to generate dinosaur themed Lorem Ipsum. Use it any way you like - for instance, you could create a dinosaur themed game along the lines of hangman. Note: Be sure you set your output format to JSON, not HTML or text.
 
 ## Analysis & Brainstorm
+1. input button they push and it gives them lorem ipsum. (1 or two paragraphs)
+
 
 ## Pseudocode
       Test must be tabbed in three times to show up as code block:
